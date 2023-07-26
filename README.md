@@ -2,10 +2,10 @@
 
 ## Visits
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@72276803-0571-4e62-b0a7-9880fcd0244f?theme=gelbooru"/></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@SangphilPark?theme=rule34"/></a>
 </p>
 
-Counting since `2021-09-19T16:02:06Z` (ISO 8601)
+Counting since `2023-07-27 T01:42:06Z` (ISO 8601)
 
 ![Sangphil's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangphilPark&count_bg=%2347B7E3&title_bg=%235B5D5E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
