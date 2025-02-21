@@ -1,4 +1,4 @@
-# Sangphil Park 💠
+<!--# Sangphil Park 💠
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EEAF7&random=false&width=435&lines=ML+Engineer+%26+BACK-E+Engineer)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
 ---
 ## Activities🧩
-
+-->
 
 
 <!--
